@@ -5,7 +5,7 @@ echo "Removendo versões anteriores do AnyDesk..."
 sudo apt remove --purge -y anydesk*
 
 # URL para o arquivo .deb do AnyDesk
-anydesk_deb_url="https://my.anydesk.com/v2/api/v2/custom-clients/downloads/public/0IFYTVCVQJOH/anydesk_rentcars.infra6.3.0-1_amd64.deb"
+anydesk_deb_url="https://my.anydesk.com/v2/api/v2/custom-clients/downloads/public/EYSVU8MKZAC4/anydesk-rentcars-infra-6.3.0-1_amd64.deb"
 
 # Nome do arquivo .deb após o download
 deb_filename="anydesk_rentcars.infra6.3.0-1_amd64.deb"
