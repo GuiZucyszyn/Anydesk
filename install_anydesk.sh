@@ -10,7 +10,7 @@ wget -q https://my.anydesk.com/v2/api/v2/custom-clients/downloads/public/YNUEB2E
 
 
 # Instala o AnyDesk usando o dpkg
-sudo dpkg -i /tmp/Anydesk/anydesk-rentcars-infra-6.3.0-1_amd64.deb
+sudo dpkg -i /tmp/Anydesk/anydesk-client-rentcars-6.3.0-1_amd64.deb
     
 # Instala dependências, se necessário
 sudo apt-get -f install
